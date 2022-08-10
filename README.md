@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deven Thorat</h1>
-<h3 align="center">A passionate About Coding and Hacking.</h3>
+<h3 align="center">I Passionate About Coding and Hacking.</h3>
 
 <img align="right" alt="Coding" Width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
