@@ -1,4 +1,4 @@
-![github profile display]
+
 <h1 align="center">Hi 👋, I'm Deven Thorat</h1>
 <h3 align="center">I Passionate About Coding and Hacking.</h3>
 
