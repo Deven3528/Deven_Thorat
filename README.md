@@ -19,7 +19,8 @@
 <a href="https://twitter.com/deven_thorat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deven_thorat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deven-thorat-571624231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deven-thorat-571624231" height="30" width="40" /></a>
 <a href="https://instagram.com/deventhorat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deventhorat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/thoratdeven319?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/thoratdeven319?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thoratdeven319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thoratdeven319" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
